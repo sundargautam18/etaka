@@ -1,5 +1,5 @@
 // To parse this JSON data, do
-//
+//added this
 //     final merchant = merchantFromJson(jsonString);
 
 import 'dart:convert';
